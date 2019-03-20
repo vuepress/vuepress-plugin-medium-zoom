@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/vuepress-plugin-medium-zoom.svg)](https://www.npmjs.com/package/vuepress-plugin-medium-zoom)
 [![GitHub](https://img.shields.io/github/license/meteorlxy/vuepress-plugin-medium-zoom.svg)](https://github.com/meteorlxy/vuepress-plugin-medium-zoom/blob/master/LICENSE)
 
-Use [medium-zoom](https://github.com/francoischalifour/medium-zoom.html) in VuePress.
+Use [medium-zoom](https://github.com/francoischalifour/medium-zoom) in VuePress.
 
 This plugin will make your images zoomable in your VuePress site.
 
@@ -37,7 +37,6 @@ module.exports = {
     }],
   ],
 }
-
 ```
 
 Change the default `z-index` of the `medium-zoom-overlay` in `palette.styl`:
