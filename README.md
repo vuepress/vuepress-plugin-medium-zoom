@@ -97,10 +97,10 @@ export default {
   methods: {
     openImages () {
       // get the mediumZoom instance
-      const mz = this.$vuepress.mediumZoom.mz
+      const zoom = this.$vuepress.mediumZoom.instance
 
       // call the methods
-      mz.open()
+      zoom.open()
     },
   },
 }
