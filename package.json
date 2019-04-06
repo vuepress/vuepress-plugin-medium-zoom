@@ -12,13 +12,13 @@
     "image",
     "zoom"
   ],
-  "homepage": "https://github.com/meteorlxy/vuepress-plugin-medium-zoom",
+  "homepage": "https://github.com/vuepress/vuepress-plugin-medium-zoom",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meteorlxy/vuepress-plugin-medium-zoom.git"
+    "url": "git+https://github.com/vuepress/vuepress-plugin-medium-zoom.git"
   },
   "bugs": {
-    "url": "https://github.com/meteorlxy/vuepress-plugin-medium-zoom/issues"
+    "url": "https://github.com/vuepress/vuepress-plugin-medium-zoom/issues"
   },
   "scripts": {
     "dev": "vuepress dev dev --temp .temp",

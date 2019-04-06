@@ -1,13 +1,11 @@
 # vuepress-plugin-medium-zoom
 
 [![npm](https://img.shields.io/npm/v/vuepress-plugin-medium-zoom.svg)](https://www.npmjs.com/package/vuepress-plugin-medium-zoom)
-[![GitHub](https://img.shields.io/github/license/meteorlxy/vuepress-plugin-medium-zoom.svg)](https://github.com/meteorlxy/vuepress-plugin-medium-zoom/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/vuepress/vuepress-plugin-medium-zoom.svg)](https://github.com/vuepress/vuepress-plugin-medium-zoom/blob/master/LICENSE)
 
 Use [medium-zoom](https://github.com/francoischalifour/medium-zoom) in VuePress.
 
 This plugin will make your images zoomable in your VuePress site.
-
-> This plugin is a fork of VuePress official plugin `@vuepress/plugin-medium-zoom` with modifications
 
 ## Usage
 
@@ -110,4 +108,4 @@ export default {
 
 ## LICENSE
 
-MIT
+MIT &copy; [@meteorlxy](https://github.com/meteorlxy) & [VuePress Community](https://github.com/vuepress)
