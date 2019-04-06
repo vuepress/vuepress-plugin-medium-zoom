@@ -1,1 +1,1 @@
-![GitHub](https://img.shields.io/github/license/meteorlxy/vuepress-plugin-medium-zoom.svg)
+![npm](https://img.shields.io/npm/v/vuepress-plugin-medium-zoom.svg)
