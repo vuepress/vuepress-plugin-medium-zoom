@@ -37,7 +37,7 @@
     ]
   },
   "dependencies": {
-    "medium-zoom": "^1.0.3"
+    "medium-zoom": "^1.0.4"
   },
   "devDependencies": {
     "eslint": "^5.8.0",
