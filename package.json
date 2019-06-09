@@ -23,7 +23,8 @@
   "scripts": {
     "dev": "vuepress dev dev --temp .temp",
     "build": "vuepress build dev --dest .build --temp .temp",
-    "lint": "eslint --fix --ext .js,.vue ."
+    "lint": "eslint --fix --ext .js,.vue .",
+    "publish": "git push origin master:master --tags"
   },
   "husky": {
     "hooks": {
