@@ -2,10 +2,6 @@ module.exports = {
   root: true,
 
   extends: [
-    'standard',
+    'vuepress',
   ],
-
-  rules: {
-    'comma-dangle': ['error', 'always-multiline'],
-  },
 }
