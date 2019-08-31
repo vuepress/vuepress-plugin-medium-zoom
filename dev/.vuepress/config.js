@@ -1,7 +1,7 @@
 module.exports = {
   plugins: [
     [require('../../lib/index'), {
-      selector: '.content img',
+      selector: '.theme-default-content img',
 
       options: {
         margin: 0,
