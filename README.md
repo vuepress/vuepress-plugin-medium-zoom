@@ -1,5 +1,7 @@
 # vuepress-plugin-medium-zoom
 
+> Migrated to [vuepress-community](https://github.com/vuepress/vuepress-community)
+
 [![npm](https://img.shields.io/npm/v/vuepress-plugin-medium-zoom.svg)](https://www.npmjs.com/package/vuepress-plugin-medium-zoom)
 [![GitHub](https://img.shields.io/github/license/vuepress/vuepress-plugin-medium-zoom.svg)](https://github.com/vuepress/vuepress-plugin-medium-zoom/blob/master/LICENSE)
 
